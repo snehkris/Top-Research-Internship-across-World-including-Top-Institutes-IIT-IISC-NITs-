@@ -1,5 +1,7 @@
+> ⚠️ Please do not copy this repository without giving credits.
+> If you found this useful, kindly ⭐ star the repository instead.
 # Top-Research-Internship-across-World-including-Top-Institutes-IIT-IISC-NITs-
-# 🚀 Research Internship Programs for Indian College Students 🌍
+
 
 <div align="center">
 
